@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * insertion_sort_list - A function that sorts a DLL 
+ * insertion_sort_list - A function that sorts a DLL
  * of integers in ascending order
  *
  * @list: list Argument
